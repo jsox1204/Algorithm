@@ -2,7 +2,7 @@ package com;
 
 import java.util.Scanner;
 
-public class LuhnAlgorism {
+public class LuanAlgorithm {
     public static void main(String[] args) {
 
         String cardNumber;
